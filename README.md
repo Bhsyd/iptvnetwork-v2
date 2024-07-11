@@ -127,3 +127,4 @@
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/Bhsyd/iptvnet-v1/blob/main/TV%20Nasional/NTV.png" group-title="TV Nasional",Nusantara TV 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 https://v5.siar.us/nusantaratv/live/chunks.m3u8
 
+
